@@ -10,6 +10,7 @@ by S. L. Brunton and J. N. Kutz
 Cambridge Textbook, 2019  
 Copyright 2019, All Rights Reserved  
 http://databookuw.com/
+
 https://www.amazon.com/Data-Driven-Science-Engineering-Learning-Dynamical/dp/1108422098
 
 Python code library by Daniel Dylewsky. There are a few items that are only available in the Matlab version. Many of these notebooks make use of third-party Python modules. Download links for the more obscure ones are provided inline.
